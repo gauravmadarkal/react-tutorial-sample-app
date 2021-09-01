@@ -1,0 +1,16 @@
+.inp-wrp {
+	display: flex;
+	flex-direction: column;
+}
+.inp-lb {
+	font-size: 1.2em;
+	text-transform: capitalize;
+	color: var(--bg-color);
+	font-weight: bold;
+	margin: 0.7em 0;
+}
+.inp {
+	padding: 1em;
+	border: 1px solid var(--bg-color);
+	border-radius: 0.5em;
+}

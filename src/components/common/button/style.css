@@ -1,0 +1,22 @@
+.button {
+	padding: 1em;
+	border-radius: 0.5em;
+	display: block;
+	border: none;
+	text-decoration: none;
+	width: max-content;
+}
+
+.button:hover {
+	opacity: 0.5;
+}
+
+.primary {
+	background-color: var(--primary-color);
+	color: var(--bg-color);
+}
+
+.secondary {
+	border: 1px solid var(--bg-color);
+	background-color: aliceblue;
+}

@@ -1,0 +1,32 @@
+.ct-c {
+	max-width: 50em;
+	margin: 0 auto;
+	background-color: white;
+	border-radius: 0.1em;
+	padding: 2em;
+}
+.text {
+	color: var(--bg-color);
+}
+
+.submit {
+	margin: 1em 0;
+}
+
+.col-md {
+	width: 50%;
+	justify-content: center;
+}
+
+.value {
+	color: var(--bg-color);
+}
+
+.heading {
+	font-size: 1.2em;
+	font-weight: bold;
+	color: var(--bg-color);
+}
+.end {
+	text-align: end;
+}
